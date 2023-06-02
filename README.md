@@ -25,7 +25,7 @@
 <b>Amo:</b> jogos, gatinhos i u sunooo
 </li>
 <li>
-<b>Genero:</b> ela/dela
+<b>pronomes:</b> ela/dela
 </li>
 <li>
 <b>Hobbys:</b> Tecnologia, Design Gráfico, Desenvolvimento Web
