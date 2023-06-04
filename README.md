@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Atualmente estou aprendendo html, css, javascript;
+- 🌱 Atualmente estou aprendendo html, css, java;
 - 👯 Estou procurando colaborar em.. "estou decidindo"
 - 📫 Como chegar até mim: ssususenai@gmail.com
 -->
