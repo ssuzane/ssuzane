@@ -1,6 +1,4 @@
-<img align="center" src="https://i.pinimg.com/564x/a4/42/d4/a442d45ec9905216e2a4a0bd4dfcd1fa.jpg">
-
-
+<img src="https://i.pinimg.com/564x/a4/42/d4/a442d45ec9905216e2a4a0bd4dfcd1fa.jpg">
 
 
 
